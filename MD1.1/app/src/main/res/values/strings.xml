@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Колганова Алина Алексеевна</string>
+    <string name="hello_world"> изучает андройд разработку</string>
+    <string name="button">Обновить TextView</string>
+    <string name="hint">Введите значение</string>
+    <string name="error1">Что-то пошло не так</string>
+    <string name="error2">Вы ничего не ввели</string>
+    <string name="ok">Нажата кнопка ОК</string>
+    <string name="cancel">Нажата кнопка Cancel</string>
+
+</resources>

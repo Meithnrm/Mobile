@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_main"
+        android:title="MainActivity">
+    </item>
+    <item
+        android:id="@+id/menu_la2"
+        android:title="LinearActivity2">
+    </item>
+    <item
+        android:id="@+id/menu_rel"
+        android:title="RelativeActivity">
+    </item>
+    <item
+        android:id="@+id/menu_table"
+        android:title="TableActivity">
+    </item>
+    <item
+        android:id="@+id/menu_frame"
+        android:title="FrameActivity">
+    </item>
+    <item
+        android:id="@+id/menu_hor"
+        android:title="Переворачивающийся">
+    </item>
+
+</menu>

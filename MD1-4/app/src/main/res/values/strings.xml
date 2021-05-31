@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Колганова Алина Алексеевна</string>
+    <string name="button">button</string>
+    <string name="another_string">Любая другая строка по Вашему желанию</string>
+    <string name="title_activity_relative">RelativeActivity</string>
+
+    <string name="tvTopText">Верхний текст</string>
+    <string name="btnTopText">Верхняя кнопка</string>
+    <string name="tvBottomText">Нижний текст</string>
+    <string name="btnBottomText">Нижняя кнопка</string>
+    <string name="title_activity_table">TableActivity</string>
+    <string name="title_activity_frame">FrameActivity</string>
+    <string name="title_activity_linear2">LinearActivity2</string>
+
+</resources>
