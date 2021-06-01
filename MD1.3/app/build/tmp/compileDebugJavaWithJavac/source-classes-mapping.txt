@@ -1,0 +1,4 @@
+ru/fa/fu_module1/MainActivity.java
+ ru.fa.fu_module1.MainActivity
+ru/fa/fu_module1/BuildConfig.java
+ ru.fa.fu_module1.BuildConfig

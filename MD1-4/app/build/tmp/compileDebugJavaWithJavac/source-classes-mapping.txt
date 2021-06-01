@@ -1,0 +1,14 @@
+ru/fa/fu_module1/ActivityWithHorisontal.java
+ ru.fa.fu_module1.ActivityWithHorisontal
+ru/fa/fu_module1/FrameActivity.java
+ ru.fa.fu_module1.FrameActivity
+ru/fa/fu_module1/MainActivity.java
+ ru.fa.fu_module1.MainActivity
+ru/fa/fu_module1/BuildConfig.java
+ ru.fa.fu_module1.BuildConfig
+ru/fa/fu_module1/LinearActivity2.java
+ ru.fa.fu_module1.LinearActivity2
+ru/fa/fu_module1/RelativeActivity.java
+ ru.fa.fu_module1.RelativeActivity
+ru/fa/fu_module1/TableActivity.java
+ ru.fa.fu_module1.TableActivity
